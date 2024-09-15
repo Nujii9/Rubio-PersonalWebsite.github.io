@@ -45,7 +45,7 @@
     <section id="about">
         <div class="about-content">
             <h1>About Me</h1>
-            <p>Hi, I am Isagani C. Rubio Jr. and I am a first year student of Bachelor of Science in Computer Science in the University of Perpetual Help System Dalta - Molino. I live in Camella Springville in Molino 3, Bacoor, Cavite. I like to play video games, listen to music, and watch movies. I also play football as my physical sport.</p> 
+            <p>Hi, I am Isagani C. Rubio Jr. and I am a first year student of Bachelor of Science in Computer Science in the University of Perpetual Help System Dalta - Molino. I live in Camella Springville in Molino 3, Bacoor, Cavite. I like to play video games, listen to music, and watch movies. I also play football as my physical sport. As a BS Computer Science student, I’m eager to learn more on web design, where creativity meets technical skills. I look forward to mastering the art of web designing and more.</p> 
     
      <section id="contact">
         <div class="contact-content">
